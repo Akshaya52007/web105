@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            WEBSITE 
+        </title>
+    </head>
+    <body>
+        <h1> RESUME</h1>
+        <P><B> NAME :</B> P AKSHAYA <br><b>ADRESS:</b>NGO COLONY
+            <br>TQ:RAICHUR
+            <br> NORTH KARNATAKA<BR>UNIVERSITY:RV UNIVERSITY</BR>
+             <BR> PINCODE:584101</p>
+            <img src="Akshaya.jpeg" height="100" width="200"
+                
+                
+        <h3> HOBBIES</h3>
+       <li> READING BOOKS</li>
+       <LI> SINGLING </LI>
+        <li> DACNING</LI>
+
+        <h2>CONTACT DETAILS:</h2>
+        <LI>MOBLIE NO:8861170416</LI>
+        <LI>EMAIL-ID: pakshaya52007@gmail.com</LI>
+
+<p> <H3> EDUCATIONAL DETAILS</H3></p>
+<table BORDER="2">
+    <tr>
+         <TH> CLASS</TH>
+       <TH> INSTITUTION</TH>
+     <TH> PERCENTAGE</TH>                  
+    <TH> PASSING YEAR</TH></tr>
+
+<TR>
+    <TD> SSLC</TD>
+    <TD> RACE CONCEPT</TD>
+    <TD> 85%</TD>
+    <TD> 2022</TD>
+
+</TR>
+<tr>
+    <td>PUC</td>
+    <TD>EXPERT PU COLLEGE</TD>
+    <TD> 91%</TD>
+        <TD>2024</TD>
+
+</tr>
+                            
+                              
+        </body>
+        </html>
